@@ -1,7 +1,7 @@
-### Hi there, It's Gordon Here 👋
+### Hi there, It's Gordon here 👋
 
 
-Here are some ideas about myself:
+# To learn more about me:
 
 - 🔭 I’m currently working on ... Ruby on Rails
 - 🌱 I’m currently learning ... Ruby
