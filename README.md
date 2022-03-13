@@ -1,7 +1,5 @@
 ### Hi there, It's Gordon here:
 
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
-
 To learn more about me:
 
 - 🔭 I’m currently working on ... Ruby on Rails
