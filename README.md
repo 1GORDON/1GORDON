@@ -10,4 +10,3 @@ To learn more about me:
 - 📫 How to reach me: ... [Email: ](gordon.tinyefuza1@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Learning is a continuous process
--->
