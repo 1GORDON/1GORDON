@@ -1,4 +1,4 @@
-### Hi there 👋, It's Gordon here:
+### Hi there, 👋 It's Gordon here:
 
 To learn more about me:
 
