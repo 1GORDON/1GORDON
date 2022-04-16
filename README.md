@@ -7,6 +7,6 @@ To learn more about me:
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects
 - 🤔 I’m looking for help with ... Javascript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [My Email](gordon.tinyefuza1@gmail.com)
+- 📫 How to reach me: ... [Email Me](gordon.tinyefuza1@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Learning is a continuous process
