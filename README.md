@@ -4,7 +4,7 @@ To learn more about me:
 
 - 🔭 I’m currently Strengthening my skills in ... Ruby on Rails
 - 🔭 I’m currently Strengthening my skills in ... Ruby
-- 🔭 I’m currently Strengthening my skills in ... Javascript
+- 🔭 I’m currently Building Javascript and React projects.🙌
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects
 - 🤔 I’m looking for help with ... Typescript
 - 💬 Ask me about ... Anything
