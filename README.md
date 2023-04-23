@@ -6,7 +6,7 @@ To learn more about me:
 - 🔭 I’m currently Strengthening my skills in ... Ruby
 - 🔭 I’m currently Building Javascript and React projects.🙌
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects
-- 🤔 I’m looking for help with ... Typescript
+- 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Email Me At: (gordon.tinyefuza1@gmail.com)
 - 😄 Pronouns: ... He/Him
